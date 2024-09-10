@@ -1,0 +1,6 @@
+[submodule "Gestion-back"]
+	path = Gestion-back
+	url = https://github.com/Amir448868/Gestion-back.git
+[submodule "Gestion-FrontEnd"]
+	path = Gestion-FrontEnd
+	url = https://github.com/Amir448868/Gestion-FrontEnd.git
